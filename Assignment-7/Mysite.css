@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 
 body {
@@ -11,6 +12,10 @@ body {
     flex-direction: column;
     min-height: 100vh;
     align-items: center;
+    background-image: url(goku-dragon-ball-super-o9eher9i6axhcjo1.jpg);
+    background-size: cover;
+    opacity: 0.9;
+    
 }
 
 a {
@@ -33,6 +38,7 @@ a {
 .main-content {
     display: flex;
     min-height: 600px;
+    
 }
 
 
